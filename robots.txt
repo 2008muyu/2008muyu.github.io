@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://2008muyu.github.io/sitemap.xml 
